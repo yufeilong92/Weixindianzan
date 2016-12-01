@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\android-sdk_r24.4.1-windows\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\YFPHILPS\Desktop\weixin_friendcircle1\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-19.1.0_0c919f940140cd8d1d43882d36134d02bdbbfde7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YFPHILPS\Desktop\weixin_friendcircle1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3eeee256e518c47bf8d1cdb83224ffd1ff5c73ea">
+        <dex dex="C:\Users\YFPHILPS\Desktop\weixin_friendcircle1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_1e13f6cf45187f5fd84ae63dbe1db789f1c7820d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YFPHILPS\Desktop\weixin_friendcircle1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="12c3d11b0955df0a2914376eaf55eafd94bdc061">
+        <dex dex="C:\Users\YFPHILPS\Desktop\weixin_friendcircle1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_debb00f22090dbc69ad86095e62d07a2ebd3d160\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\YFPHILPS\\Desktop\\weixin_friendcircle1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\YFPHILPS\\Desktop\\weixin_friendcircle1\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\YFPHILPS\\Desktop\\weixin_friendcircle1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\coment_pressed.png",
+        "source": "C:\\Users\\YFPHILPS\\Desktop\\weixin_friendcircle1\\app\\src\\main\\res\\drawable-xhdpi\\coment_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\YFPHILPS\\Desktop\\weixin_friendcircle1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\circle_comment.png",
+        "source": "C:\\Users\\YFPHILPS\\Desktop\\weixin_friendcircle1\\app\\src\\main\\res\\drawable-xhdpi\\circle_comment.png"
+    },
+    {
+        "merged": "C:\\Users\\YFPHILPS\\Desktop\\weixin_friendcircle1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\circle_praise.png",
+        "source": "C:\\Users\\YFPHILPS\\Desktop\\weixin_friendcircle1\\app\\src\\main\\res\\drawable-xhdpi\\circle_praise.png"
+    }
+]

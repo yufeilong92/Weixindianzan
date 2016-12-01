@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\YFPHILPS\\Desktop\\weixin_friendcircle1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\comment_bg.xml",
+        "source": "C:\\Users\\YFPHILPS\\Desktop\\weixin_friendcircle1\\app\\src\\main\\res\\drawable\\comment_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\YFPHILPS\\Desktop\\weixin_friendcircle1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\select_comment_right.xml",
+        "source": "C:\\Users\\YFPHILPS\\Desktop\\weixin_friendcircle1\\app\\src\\main\\res\\drawable\\select_comment_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\YFPHILPS\\Desktop\\weixin_friendcircle1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\comment_bg_left.xml",
+        "source": "C:\\Users\\YFPHILPS\\Desktop\\weixin_friendcircle1\\app\\src\\main\\res\\drawable\\comment_bg_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\YFPHILPS\\Desktop\\weixin_friendcircle1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\comment_bg_right.xml",
+        "source": "C:\\Users\\YFPHILPS\\Desktop\\weixin_friendcircle1\\app\\src\\main\\res\\drawable\\comment_bg_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\YFPHILPS\\Desktop\\weixin_friendcircle1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\select_comment_left.xml",
+        "source": "C:\\Users\\YFPHILPS\\Desktop\\weixin_friendcircle1\\app\\src\\main\\res\\drawable\\select_comment_left.xml"
+    }
+]

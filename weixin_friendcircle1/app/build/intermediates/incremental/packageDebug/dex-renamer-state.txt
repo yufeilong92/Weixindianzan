@@ -1,0 +1,7 @@
+#Thu Dec 01 15:34:59 CST 2016
+base.0=C\:\\Users\\YFPHILPS\\Desktop\\weixin_friendcircle1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_debb00f22090dbc69ad86095e62d07a2ebd3d160
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\YFPHILPS\\Desktop\\weixin_friendcircle1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_1e13f6cf45187f5fd84ae63dbe1db789f1c7820d\\classes.dex
+base.1=C\:\\Users\\YFPHILPS\\Desktop\\weixin_friendcircle1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_1e13f6cf45187f5fd84ae63dbe1db789f1c7820d
+file.0=C\:\\Users\\YFPHILPS\\Desktop\\weixin_friendcircle1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_debb00f22090dbc69ad86095e62d07a2ebd3d160\\classes.dex
